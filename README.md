@@ -18,6 +18,7 @@ Have questions or need support? We're here to help.
 *   📧 **Support Email:** [contact@sentrystudios.org](mailto:contact@sentrystudios.org)
 *   🎮 **Discord:** Join our [Discord Server](https://discord.gg/4zfDrBjzMc) for community support and updates.
 
+
 ---
 
 <p align="center">
