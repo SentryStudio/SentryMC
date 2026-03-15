@@ -19,6 +19,7 @@ Have questions or need support? We're here to help.
 *   🎮 **Discord:** Join our [Discord Server](https://discord.gg/4zfDrBjzMc) for community support and updates.
 
 
+![alt text](https://raw.githubusercontent.com/SentryStudio/SentryMC/refs/heads/main/Screenshot%202026-03-15%20213928.png "admin-panel")
 ---
 
 <p align="center">
